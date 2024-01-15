@@ -1,0 +1,1 @@
+To evaluate the impact of vaccination rates in New York State on subsequent COVID-19 infection rates, and to understand how public sentiment, as reflected through Twitter data, aligns with or influences these health metrics.
